@@ -1,0 +1,6 @@
+London;Moscow;1;18
+Moscow;Seattle;1;21
+Saint-Petersburg;Dublin;1;N/A
+Dublin;Lyon;1;9
+London;Lyon;7;N/A
+Seattle;Saint-Petersburg;2;4
